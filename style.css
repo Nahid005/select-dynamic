@@ -1,0 +1,20 @@
+.multiple-payment-section .payment-list {
+    background: #ddd;
+    height: 100%;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.multiple-payment-section .payment-list ul {
+    padding: 0;
+}
+
+.multiple-payment-section .payment-list ul li {
+    padding: 10px 0;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.staff-note-section {
+    margin-top: 20px;
+}
